@@ -703,7 +703,9 @@ p {
     font-size: 16px;
     font-weight: 700;
 }
-
+.textelien{
+    visibility: hidden;
+}
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
