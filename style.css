@@ -36,6 +36,17 @@ a:hover {
     color:black;
 }
 
+.titre1c{
+    display: none;
+}
+.titre2c{
+    display: none;
+}
+.big{
+    font-size: 20px;
+}
+
+
 .bloc {
     width: 100%;
     clear: both;
@@ -682,7 +693,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
