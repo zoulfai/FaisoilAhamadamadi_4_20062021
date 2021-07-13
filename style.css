@@ -21,6 +21,9 @@ a:hover {
     font-size: 20px;
 }
 
+.text_img2s{
+    color: black;
+}
 
 #page-loading-blocs-notifaction {
     position: fixed;
@@ -546,6 +549,8 @@ a[data-lightbox] {
     display: block;
     text-align: center;
 }
+
+
 
 a[data-lightbox]:hover::before {
     content: "+";
